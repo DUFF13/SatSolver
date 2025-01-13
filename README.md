@@ -4,7 +4,7 @@ SAT Solver
 Description
 -----------
 Ce projet implémente un solveur SAT capable de résoudre des formules logiques exprimées au format CNF (Conjunctive Normal Form). 
-Il prend en entrée des fichiers au format DIMACS, un standard utilisé pour décrire des problèmes SAT, et utilise un algorithme DPLL 
+Il prend en entrée des fichiers au format DIMACS, un standard utilisé pour décrire des problèmes d'informatique fondamentale, et utilise un algorithme DPLL 
 (Quine-DPLL) pour déterminer si la formule est satisfiable.
 
 Structure du projet
